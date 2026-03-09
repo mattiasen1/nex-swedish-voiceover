@@ -199,7 +199,7 @@ public class NexPlugin extends Plugin
 
             // Ice Phase
             case "infuse me with the power of ice":
-                return "nex_infuse_me_with_power_of_ice.wav";
+                return "nex_infuse_me_with_the_power_of_ice.wav";
 
             case "contain this":
                 return "nex_contain_this.wav";
@@ -208,7 +208,7 @@ public class NexPlugin extends Plugin
                 return "nex_die_now_in_a_prison_of_ice.wav";
 
             case "glacies, don't fail me":
-                return "nex_glacies_don_fail_me.wav";
+                return "nex_glacies_dont_fail_me.wav";
 
             // Zaros Phase
             case "now, the power of zaros":
